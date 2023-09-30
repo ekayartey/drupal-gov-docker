@@ -1,0 +1,6 @@
+# File: self.site.yml
+dev:
+#  host: server.domain.com
+#  user: admin
+  root: C:\xampp\htdocs\govt_policy\web
+  uri: http://localhost/govt_policy/web/
